@@ -205,6 +205,7 @@ nav {
 }
 .nav__menu__btn  :hover{
 font-size: 2rem;
+  transition: 0.4s;
 }
 
 .nav__action__btn {
